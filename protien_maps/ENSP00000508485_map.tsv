@@ -1,0 +1,2 @@
+seqnames	start	end	width	strand	protein_id	tx_id	exon_id	exon_rank	cds_ok	protein_start	protein_end
+4	73981783	73981953	171	-	ENSP00000508485	ENST00000687529	ENSE00003931574	1	TRUE	1	57
